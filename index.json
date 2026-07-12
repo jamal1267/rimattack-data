@@ -1,46 +1,7 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-07-12T08:00:00.000Z",
+  "generatedAt": "2026-07-12T18:20:00.000Z",
   "engineVersion": "0.7.0",
-  "latest": {
-    "season": "S1",
-    "week": 4,
-    "slot": "20260712-08"
-  },
-  "seasons": [
-    {
-      "id": "S1",
-      "label": "第 1 季",
-      "weeks": [
-        {
-          "n": 3,
-          "label": "第 3 週"
-        },
-        {
-          "n": 4,
-          "label": "第 4 週"
-        }
-      ],
-      "slots": [
-        {
-          "id": "20260712-08",
-          "label": "第 4 週 · 07/12 08:00 場次",
-          "week": 4,
-          "games": 3
-        },
-        {
-          "id": "20260712-02",
-          "label": "第 4 週 · 07/12 02:00 場次",
-          "week": 4,
-          "games": 3
-        },
-        {
-          "id": "20260711-18",
-          "label": "第 3 週 · 07/11 18:00 場次",
-          "week": 3,
-          "games": 3
-        }
-      ]
-    }
-  ]
+  "latest": { "season": "", "week": 0, "slot": "" },
+  "seasons": []
 }

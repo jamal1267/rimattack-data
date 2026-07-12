@@ -1,0 +1,82 @@
+{
+  "season": "S1",
+  "slot": "20260712-02",
+  "label": "第 4 週 · 07/12 02:00 場次",
+  "week": 4,
+  "engineVersion": "0.6.0",
+  "generatedAt": "2026-07-12T08:00:00.000Z",
+  "games": [
+    {
+      "id": "20260712-02-g1",
+      "seed": 1736201435,
+      "home": {
+        "teamId": "#7350",
+        "name": "灌籃高校"
+      },
+      "away": {
+        "teamId": "#AD2C",
+        "name": "雷霆風暴"
+      },
+      "score": [
+        101,
+        118
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": "20260712-02-g2",
+      "seed": 4156292491,
+      "home": {
+        "teamId": "#2FE9",
+        "name": "鋼鐵城"
+      },
+      "away": {
+        "teamId": "#F2FC",
+        "name": "夜襲者"
+      },
+      "score": [
+        145,
+        99
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": "20260712-02-g3",
+      "seed": 1165995390,
+      "home": {
+        "teamId": "#F419",
+        "name": "邊線暴徒"
+      },
+      "away": {
+        "teamId": "#4DB2",
+        "name": "熔岩軍團"
+      },
+      "score": [
+        113,
+        120
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": true,
+          "positionOrder": [
+            "C",
+            "PF",
+            "SF",
+            "SG",
+            "PG"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "season": "S1",
+  "slot": "20260711-18",
+  "label": "第 3 週 · 07/11 18:00 場次",
+  "week": 3,
+  "engineVersion": "0.6.0",
+  "generatedAt": "2026-07-12T08:00:00.000Z",
+  "games": [
+    {
+      "id": "20260711-18-g1",
+      "seed": 2561161451,
+      "home": {
+        "teamId": "#AD2C",
+        "name": "雷霆風暴"
+      },
+      "away": {
+        "teamId": "#7350",
+        "name": "灌籃高校"
+      },
+      "score": [
+        136,
+        126
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": "20260711-18-g2",
+      "seed": 3863931740,
+      "home": {
+        "teamId": "#F419",
+        "name": "邊線暴徒"
+      },
+      "away": {
+        "teamId": "#2FE9",
+        "name": "鋼鐵城"
+      },
+      "score": [
+        121,
+        135
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": "20260711-18-g3",
+      "seed": 2168723377,
+      "home": {
+        "teamId": "#4DB2",
+        "name": "熔岩軍團"
+      },
+      "away": {
+        "teamId": "#F2FC",
+        "name": "夜襲者"
+      },
+      "score": [
+        124,
+        91
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": true,
+          "positionOrder": [
+            "C",
+            "PF",
+            "SF",
+            "SG",
+            "PG"
+          ]
+        },
+        null
+      ]
+    }
+  ]
+}

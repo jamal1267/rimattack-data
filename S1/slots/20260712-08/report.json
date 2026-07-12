@@ -1,0 +1,13 @@
+{
+  "season": "S1",
+  "slot": "20260712-08",
+  "generatedAt": "2026-07-12T08:00:00.000Z",
+  "accepted": 6,
+  "skipped": [
+    {
+      "account": "clown@example.com",
+      "nickname": "作弊哥",
+      "reason": "全隊總點數 45090 超過 27000 上限(疑似竄改)。"
+    }
+  ]
+}

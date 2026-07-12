@@ -1,0 +1,33 @@
+{
+  "season": "S1",
+  "range": "week-1",
+  "label": "第 1 週",
+  "engineVersion": "0.8.0",
+  "generatedAt": "2026-07-12T21:05:57.126Z",
+  "rows": [
+    {
+      "rank": 1,
+      "teamId": "#162B",
+      "name": "醉心痕",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 1,
+      "teamId": "#951A",
+      "name": "J",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 3,
+      "teamId": "#CDB1",
+      "name": "ER",
+      "w": 0,
+      "l": 1,
+      "gp": 1
+    }
+  ]
+}

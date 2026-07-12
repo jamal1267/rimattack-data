@@ -1,7 +1,30 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-07-12T18:20:00.000Z",
-  "engineVersion": "0.7.0",
-  "latest": { "season": "", "week": 0, "slot": "" },
-  "seasons": []
+  "generatedAt": "2026-07-12T21:05:57.126Z",
+  "engineVersion": "0.8.0",
+  "latest": {
+    "season": "S1",
+    "week": 1,
+    "slot": "20260713-06"
+  },
+  "seasons": [
+    {
+      "id": "S1",
+      "label": "第 1 季",
+      "weeks": [
+        {
+          "n": 1,
+          "label": "第 1 週"
+        }
+      ],
+      "slots": [
+        {
+          "id": "20260713-06",
+          "label": "第 1 週 · 07/13 06:00 場次",
+          "week": 1,
+          "games": 2
+        }
+      ]
+    }
+  ]
 }

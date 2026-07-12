@@ -2,21 +2,21 @@
   "season": "S1",
   "range": "week-4",
   "label": "第 4 週",
-  "engineVersion": "0.6.0",
+  "engineVersion": "0.7.0",
   "generatedAt": "2026-07-12T08:00:00.000Z",
   "rows": [
     {
       "rank": 1,
-      "teamId": "#4DB2",
-      "name": "熔岩軍團",
+      "teamId": "#2FE9",
+      "name": "鋼鐵城",
       "w": 2,
       "l": 0,
       "gp": 2
     },
     {
       "rank": 2,
-      "teamId": "#2FE9",
-      "name": "鋼鐵城",
+      "teamId": "#4DB2",
+      "name": "熔岩軍團",
       "w": 1,
       "l": 1,
       "gp": 2
@@ -39,16 +39,16 @@
     },
     {
       "rank": 2,
-      "teamId": "#F419",
-      "name": "邊線暴徒",
+      "teamId": "#F2FC",
+      "name": "夜襲者",
       "w": 1,
       "l": 1,
       "gp": 2
     },
     {
       "rank": 6,
-      "teamId": "#F2FC",
-      "name": "夜襲者",
+      "teamId": "#F419",
+      "name": "邊線暴徒",
       "w": 0,
       "l": 2,
       "gp": 2

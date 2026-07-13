@@ -1,0 +1,244 @@
+{
+  "season": "S1",
+  "slot": "20260713-18",
+  "label": "第 1 週 · 07/13 18:00 場次",
+  "week": 1,
+  "engineVersion": "0.10.0",
+  "generatedAt": "2026-07-13T10:06:03.015Z",
+  "games": [
+    {
+      "id": "20260713-18-g1",
+      "seed": 1060886730,
+      "home": {
+        "teamId": "#9E12",
+        "name": "吃披薩維生"
+      },
+      "away": {
+        "teamId": "#162B",
+        "name": "醉心痕"
+      },
+      "score": [
+        122,
+        127
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    },
+    {
+      "id": "20260713-18-g2",
+      "seed": 3859633450,
+      "home": {
+        "teamId": "#8596",
+        "name": "KK"
+      },
+      "away": {
+        "teamId": "#CDB1",
+        "name": "ER"
+      },
+      "score": [
+        85,
+        82
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false,
+          "tacticalPositions": {
+            "劉子軒": [
+              "PG",
+              "SG",
+              "PF"
+            ],
+            "何家榮": [
+              "PF",
+              "C"
+            ],
+            "王柏宇": [
+              "PF",
+              "C"
+            ],
+            "劉俊宏": [
+              "PG",
+              "SG",
+              "SF"
+            ]
+          },
+          "schedules": [
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "everyQstart"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "ot1all"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "q1all"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "q4all"
+            },
+            {
+              "player": "邱俊宏",
+              "action": "forceIn",
+              "timing": "q4all"
+            },
+            {
+              "player": "何家榮",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "張彥宏",
+              "action": "forceIn",
+              "timing": "q4all"
+            },
+            {
+              "player": "張彥宏",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "劉子軒",
+              "action": "clearTacPos",
+              "timing": "q4start"
+            },
+            {
+              "player": "劉俊宏",
+              "action": "forceIn",
+              "timing": "q4start"
+            },
+            {
+              "player": "劉子軒",
+              "action": "clearTacPos",
+              "timing": "q3start"
+            },
+            {
+              "player": "劉俊宏",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "q3all"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260713-18-g3",
+      "seed": 41295316,
+      "home": {
+        "teamId": "#2056",
+        "name": "教練我想打球"
+      },
+      "away": {
+        "teamId": "#91CD",
+        "name": "難以預測大隊"
+      },
+      "score": [
+        126,
+        113
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "tacticalPositions": {
+            "林彥廷": [
+              "PG",
+              "SG"
+            ],
+            "黃俊宏": [
+              "SG",
+              "SF",
+              "PF"
+            ],
+            "曾建宏": [
+              "SF",
+              "PF",
+              "C"
+            ],
+            "蔡宗霖": [
+              "SF",
+              "PF",
+              "C"
+            ],
+            "邱承恩": [
+              "PG",
+              "SG"
+            ],
+            "蘇俊宏": [
+              "PG",
+              "SG"
+            ],
+            "呂定國": [
+              "SG",
+              "SF",
+              "PF"
+            ]
+          },
+          "schedules": [
+            {
+              "player": "林彥廷",
+              "action": "forceIn",
+              "timing": "q1start"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260713-18-g4",
+      "seed": 3464615639,
+      "home": {
+        "teamId": "#951A",
+        "name": "J"
+      },
+      "away": {
+        "teamId": "CPU",
+        "name": "電腦隊"
+      },
+      "score": [
+        120,
+        106
+      ],
+      "cpu": true,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "C",
+            "PG",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "schedules": [
+            {
+              "player": "許宗翰",
+              "action": "forceIn",
+              "timing": "q1start"
+            }
+          ]
+        },
+        null
+      ]
+    }
+  ]
+}

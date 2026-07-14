@@ -1,0 +1,526 @@
+{
+  "season": "S1",
+  "slot": "20260715-00",
+  "label": "第 1 週 · 07/15 00:00 場次",
+  "week": 1,
+  "engineVersion": "0.11.0",
+  "generatedAt": "2026-07-14T16:01:18.751Z",
+  "games": [
+    {
+      "id": "20260715-00-g1",
+      "seed": 3422881432,
+      "home": {
+        "teamId": "#C736",
+        "name": "矇香架"
+      },
+      "away": {
+        "teamId": "#E27D",
+        "name": "J"
+      },
+      "score": [
+        78,
+        113
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "PG",
+            "SG",
+            "SF",
+            "PF",
+            "C"
+          ],
+          "positionWeights": {
+            "PG": {
+              "wingspan": 2,
+              "standing_reach": 1,
+              "speed": 4,
+              "jump": 2,
+              "strength": 1,
+              "agility": 4,
+              "endurance": 2,
+              "mid_range": 3,
+              "three_pointer": 3,
+              "inside_shot": 1,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "steal": 3,
+              "perimeter_defense": 3,
+              "interior_defense": 1,
+              "offensive_rebound": 1,
+              "defensive_rebound": 1,
+              "lateral_speed": 3,
+              "dribble": 5,
+              "catch": 3,
+              "passing": 5,
+              "post_move": 1,
+              "offensive_iq": 5,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 3,
+              "draw_foul": 2
+            },
+            "SG": {
+              "wingspan": 2,
+              "standing_reach": 1,
+              "speed": 4,
+              "jump": 2,
+              "strength": 2,
+              "agility": 4,
+              "endurance": 2,
+              "mid_range": 4,
+              "three_pointer": 5,
+              "inside_shot": 1,
+              "rim_attack": 3,
+              "free_throw": 3,
+              "steal": 3,
+              "perimeter_defense": 4,
+              "interior_defense": 1,
+              "offensive_rebound": 1,
+              "defensive_rebound": 2,
+              "lateral_speed": 4,
+              "dribble": 3,
+              "catch": 4,
+              "passing": 2,
+              "post_move": 1,
+              "offensive_iq": 3,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 2,
+              "draw_foul": 3
+            },
+            "SF": {
+              "wingspan": 3,
+              "standing_reach": 2,
+              "speed": 3,
+              "jump": 3,
+              "strength": 3,
+              "agility": 3,
+              "endurance": 2,
+              "mid_range": 4,
+              "three_pointer": 4,
+              "inside_shot": 2,
+              "rim_attack": 4,
+              "free_throw": 2,
+              "steal": 3,
+              "perimeter_defense": 4,
+              "interior_defense": 2,
+              "offensive_rebound": 2,
+              "defensive_rebound": 3,
+              "lateral_speed": 3,
+              "dribble": 3,
+              "catch": 3,
+              "passing": 2,
+              "post_move": 2,
+              "offensive_iq": 3,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 2,
+              "draw_foul": 2
+            },
+            "PF": {
+              "wingspan": 3,
+              "standing_reach": 4,
+              "speed": 2,
+              "jump": 3,
+              "strength": 4,
+              "agility": 2,
+              "endurance": 2,
+              "mid_range": 2,
+              "three_pointer": 3,
+              "inside_shot": 4,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "steal": 2,
+              "perimeter_defense": 2,
+              "interior_defense": 4,
+              "offensive_rebound": 4,
+              "defensive_rebound": 4,
+              "lateral_speed": 2,
+              "dribble": 1,
+              "catch": 2,
+              "passing": 2,
+              "post_move": 3,
+              "offensive_iq": 2,
+              "defensive_iq": 3,
+              "aggression": 3,
+              "leadership": 2,
+              "draw_foul": 2
+            },
+            "C": {
+              "wingspan": 2,
+              "standing_reach": 5,
+              "speed": 1,
+              "jump": 4,
+              "strength": 5,
+              "agility": 1,
+              "endurance": 2,
+              "mid_range": 2,
+              "three_pointer": 1,
+              "inside_shot": 4,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "steal": 1,
+              "perimeter_defense": 1,
+              "interior_defense": 5,
+              "offensive_rebound": 4,
+              "defensive_rebound": 5,
+              "lateral_speed": 2,
+              "dribble": 1,
+              "catch": 3,
+              "passing": 2,
+              "post_move": 4,
+              "offensive_iq": 2,
+              "defensive_iq": 4,
+              "aggression": 3,
+              "leadership": 2,
+              "draw_foul": 2
+            }
+          },
+          "tacticalPositions": {
+            "三上悠亞": [
+              "PF",
+              "C"
+            ],
+            "許彥宏": [
+              "PF",
+              "C"
+            ],
+            "邱文雄": [
+              "PG",
+              "SG"
+            ],
+            "林品睿": [
+              "PG",
+              "SG"
+            ],
+            "廖志偉": [
+              "SF",
+              "PF"
+            ],
+            "潘國強": [
+              "PF",
+              "C"
+            ],
+            "吳宗澤": [
+              "PF",
+              "C"
+            ],
+            "郭偉銘": [
+              "PF",
+              "C"
+            ],
+            "何志成": [
+              "SG",
+              "SF"
+            ],
+            "李志豪": [
+              "SG",
+              "SF"
+            ],
+            "邱承翰": [
+              "SF",
+              "PF"
+            ],
+            "呂柏宇": [
+              "PG",
+              "SG"
+            ]
+          },
+          "schedules": [
+            {
+              "player": "三上悠亞",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "三上悠亞",
+              "action": "forceIn",
+              "timing": "q1start"
+            },
+            {
+              "player": "三上悠亞",
+              "action": "forceIn",
+              "timing": "q3all"
+            }
+          ]
+        },
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "C",
+            "PG",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "schedules": [
+            {
+              "player": "許宗翰",
+              "action": "forceIn",
+              "timing": "q1start"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260715-00-g2",
+      "seed": 2941494859,
+      "home": {
+        "teamId": "#736D",
+        "name": "教練我想打球"
+      },
+      "away": {
+        "teamId": "#9EDB",
+        "name": "palmk"
+      },
+      "score": [
+        111,
+        126
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "tacticalPositions": {
+            "林彥廷": [
+              "PG",
+              "SG"
+            ],
+            "黃俊宏": [
+              "SG",
+              "SF",
+              "PF"
+            ],
+            "曾建宏": [
+              "SF",
+              "PF",
+              "C"
+            ],
+            "蔡宗霖": [
+              "SF",
+              "PF",
+              "C"
+            ],
+            "邱承恩": [
+              "PG",
+              "SG"
+            ],
+            "蘇俊宏": [
+              "PG",
+              "SG"
+            ],
+            "呂定國": [
+              "SG",
+              "SF",
+              "PF"
+            ]
+          },
+          "schedules": [
+            {
+              "player": "林彥廷",
+              "action": "forceIn",
+              "timing": "q1start"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260715-00-g3",
+      "seed": 2667581900,
+      "home": {
+        "teamId": "#3FEA",
+        "name": "KK"
+      },
+      "away": {
+        "teamId": "#C1C5",
+        "name": "吃披薩維生"
+      },
+      "score": [
+        117,
+        131
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "tacticalPositions": {
+            "李書豪": [
+              "SG",
+              "SF",
+              "PF"
+            ],
+            "林冠廷": [
+              "PG",
+              "SG"
+            ],
+            "羅俊傑": [
+              "PG",
+              "SG"
+            ],
+            "李泓睿": [
+              "SG",
+              "SF"
+            ]
+          },
+          "schedules": [
+            {
+              "player": "阿肥",
+              "action": "forceIn",
+              "timing": "q1start"
+            },
+            {
+              "player": "張建宏",
+              "action": "clearTacPos",
+              "timing": "everyQstart"
+            },
+            {
+              "player": "謝建國",
+              "action": "clearTacPos",
+              "timing": "everyQstart"
+            }
+          ]
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260715-00-g4",
+      "seed": 726511111,
+      "home": {
+        "teamId": "#45BE",
+        "name": "akai"
+      },
+      "away": {
+        "teamId": "#B686",
+        "name": "難以預測大隊"
+      },
+      "score": [
+        118,
+        131
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": "20260715-00-g5",
+      "seed": 140951122,
+      "home": {
+        "teamId": "#3090",
+        "name": "ER.ver2"
+      },
+      "away": {
+        "teamId": "#CA30",
+        "name": "醉心痕"
+      },
+      "score": [
+        112,
+        96
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "tacticalPositions": {
+            "劉子軒": [
+              "PG",
+              "SG",
+              "PF"
+            ],
+            "何家榮": [
+              "PF",
+              "C"
+            ],
+            "王柏宇": [
+              "PF",
+              "C"
+            ],
+            "劉俊宏": [
+              "PG",
+              "SG",
+              "SF"
+            ]
+          },
+          "schedules": [
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "everyQstart"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "ot1all"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "q1all"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "q4all"
+            },
+            {
+              "player": "邱俊宏",
+              "action": "forceIn",
+              "timing": "q4all"
+            },
+            {
+              "player": "何家榮",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "張彥宏",
+              "action": "forceIn",
+              "timing": "q4all"
+            },
+            {
+              "player": "張彥宏",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "劉子軒",
+              "action": "clearTacPos",
+              "timing": "q4start"
+            },
+            {
+              "player": "劉俊宏",
+              "action": "forceIn",
+              "timing": "q4start"
+            },
+            {
+              "player": "劉子軒",
+              "action": "clearTacPos",
+              "timing": "q3start"
+            },
+            {
+              "player": "劉俊宏",
+              "action": "forceIn",
+              "timing": "q3start"
+            },
+            {
+              "player": "劉子軒",
+              "action": "forceIn",
+              "timing": "q3all"
+            }
+          ]
+        },
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    }
+  ]
+}

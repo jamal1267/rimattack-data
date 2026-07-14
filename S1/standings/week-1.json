@@ -3,52 +3,60 @@
   "range": "week-1",
   "label": "第 1 週",
   "engineVersion": "0.11.0",
-  "generatedAt": "2026-07-14T09:39:55.000Z",
+  "generatedAt": "2026-07-14T10:01:19.705Z",
   "rows": [
     {
       "rank": 1,
-      "teamId": "#3FEA",
-      "name": "KK",
-      "w": 4,
-      "l": 0,
-      "gp": 4
+      "teamId": "#E27D",
+      "name": "J",
+      "w": 5,
+      "l": 2,
+      "gp": 7
     },
     {
       "rank": 2,
-      "teamId": "#E27D",
-      "name": "J",
+      "teamId": "#3FEA",
+      "name": "KK",
       "w": 4,
-      "l": 2,
-      "gp": 6
+      "l": 1,
+      "gp": 5
     },
     {
       "rank": 3,
       "teamId": "#3090",
       "name": "ER.ver2",
+      "w": 2,
+      "l": 0,
+      "gp": 2
+    },
+    {
+      "rank": 4,
+      "teamId": "#C736",
+      "name": "矇香架",
+      "w": 2,
+      "l": 1,
+      "gp": 3
+    },
+    {
+      "rank": 5,
+      "teamId": "#45BE",
+      "name": "akai",
       "w": 1,
       "l": 0,
       "gp": 1
     },
     {
-      "rank": 4,
+      "rank": 6,
       "teamId": "#736D",
       "name": "教練我想打球",
       "w": 2,
-      "l": 2,
-      "gp": 4
-    },
-    {
-      "rank": 5,
-      "teamId": "#C736",
-      "name": "矇香架",
-      "w": 1,
-      "l": 1,
-      "gp": 2
+      "l": 3,
+      "gp": 5
     },
     {
       "rank": 6,
-      "teamId": "#B686",
-      "name": "難以預測大隊",
+      "teamId": "#C1C5",
+      "name": "吃披薩維生",
       "w": 2,
       "l": 3,
       "gp": 5
@@ -62,20 +70,20 @@
       "gp": 5
     },
     {
-      "rank": 8,
-      "teamId": "#CA30",
-      "name": "醉心痕",
+      "rank": 9,
+      "teamId": "#B686",
+      "name": "難以預測大隊",
       "w": 2,
       "l": 4,
       "gp": 6
     },
     {
-      "rank": 9,
-      "teamId": "#C1C5",
-      "name": "吃披薩維生",
-      "w": 1,
-      "l": 3,
-      "gp": 4
+      "rank": 10,
+      "teamId": "#CA30",
+      "name": "醉心痕",
+      "w": 2,
+      "l": 5,
+      "gp": 7
     }
   ]
 }

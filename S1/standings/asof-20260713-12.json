@@ -3,11 +3,11 @@
   "range": "asof-20260713-12",
   "label": "截至 第 1 週 · 07/13 12:00 場次",
   "engineVersion": "0.10.0",
-  "generatedAt": "2026-07-13T06:51:22.707Z",
+  "generatedAt": "2026-07-14T09:39:55.000Z",
   "rows": [
     {
       "rank": 1,
-      "teamId": "#951A",
+      "teamId": "#E27D",
       "name": "J",
       "w": 2,
       "l": 0,
@@ -15,7 +15,7 @@
     },
     {
       "rank": 2,
-      "teamId": "#162B",
+      "teamId": "#CA30",
       "name": "醉心痕",
       "w": 1,
       "l": 1,
@@ -23,7 +23,7 @@
     },
     {
       "rank": 2,
-      "teamId": "#CDB1",
+      "teamId": "#E50F",
       "name": "ER",
       "w": 1,
       "l": 1,
@@ -31,7 +31,7 @@
     },
     {
       "rank": 4,
-      "teamId": "#91CD",
+      "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 0,
       "l": 1,

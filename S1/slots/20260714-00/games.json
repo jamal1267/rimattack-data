@@ -10,11 +10,11 @@
       "id": "20260714-00-g1",
       "seed": 2249401465,
       "home": {
-        "teamId": "#2056",
+        "teamId": "#736D",
         "name": "教練我想打球"
       },
       "away": {
-        "teamId": "#CDB1",
+        "teamId": "#E50F",
         "name": "ER"
       },
       "score": [
@@ -163,11 +163,11 @@
       "id": "20260714-00-g2",
       "seed": 2176294583,
       "home": {
-        "teamId": "#8596",
+        "teamId": "#3FEA",
         "name": "KK"
       },
       "away": {
-        "teamId": "#91CD",
+        "teamId": "#B686",
         "name": "難以預測大隊"
       },
       "score": [
@@ -184,11 +184,11 @@
       "id": "20260714-00-g3",
       "seed": 2057362267,
       "home": {
-        "teamId": "#9E12",
+        "teamId": "#C1C5",
         "name": "吃披薩維生"
       },
       "away": {
-        "teamId": "#951A",
+        "teamId": "#E27D",
         "name": "J"
       },
       "score": [
@@ -221,7 +221,7 @@
       "id": "20260714-00-g4",
       "seed": 2913600002,
       "home": {
-        "teamId": "#162B",
+        "teamId": "#CA30",
         "name": "醉心痕"
       },
       "away": {

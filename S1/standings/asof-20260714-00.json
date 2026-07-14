@@ -3,11 +3,11 @@
   "range": "asof-20260714-00",
   "label": "截至 第 1 週 · 07/14 00:00 場次",
   "engineVersion": "0.11.0",
-  "generatedAt": "2026-07-13T17:53:11.274Z",
+  "generatedAt": "2026-07-14T09:39:55.000Z",
   "rows": [
     {
       "rank": 1,
-      "teamId": "#951A",
+      "teamId": "#E27D",
       "name": "J",
       "w": 3,
       "l": 1,
@@ -15,7 +15,7 @@
     },
     {
       "rank": 2,
-      "teamId": "#8596",
+      "teamId": "#3FEA",
       "name": "KK",
       "w": 2,
       "l": 0,
@@ -23,7 +23,7 @@
     },
     {
       "rank": 3,
-      "teamId": "#162B",
+      "teamId": "#CA30",
       "name": "醉心痕",
       "w": 2,
       "l": 2,
@@ -31,7 +31,7 @@
     },
     {
       "rank": 3,
-      "teamId": "#CDB1",
+      "teamId": "#E50F",
       "name": "ER",
       "w": 2,
       "l": 2,
@@ -39,7 +39,7 @@
     },
     {
       "rank": 5,
-      "teamId": "#2056",
+      "teamId": "#736D",
       "name": "教練我想打球",
       "w": 1,
       "l": 1,
@@ -47,7 +47,7 @@
     },
     {
       "rank": 5,
-      "teamId": "#9E12",
+      "teamId": "#C1C5",
       "name": "吃披薩維生",
       "w": 1,
       "l": 1,
@@ -55,7 +55,7 @@
     },
     {
       "rank": 7,
-      "teamId": "#91CD",
+      "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 0,
       "l": 3,

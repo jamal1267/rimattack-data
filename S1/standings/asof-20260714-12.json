@@ -1,7 +1,7 @@
 {
   "season": "S1",
-  "range": "week-1",
-  "label": "第 1 週",
+  "range": "asof-20260714-12",
+  "label": "截至 第 1 週 · 07/14 12:00 場次",
   "engineVersion": "0.11.0",
   "generatedAt": "2026-07-14T04:01:07.375Z",
   "rows": [

@@ -1,0 +1,446 @@
+{
+  "season": "S1",
+  "slot": "20260716-06",
+  "label": "第 1 週 · 07/16 06:00 場次",
+  "week": 1,
+  "engineVersion": "0.17.0",
+  "generatedAt": "2026-07-15T22:00:29.770Z",
+  "games": [
+    {
+      "id": "20260716-06-g1",
+      "seed": 689755956,
+      "home": {
+        "teamId": "#B686",
+        "name": "難以預測大隊"
+      },
+      "away": {
+        "teamId": "#9EDB",
+        "name": "palmk"
+      },
+      "score": [
+        104,
+        126
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    },
+    {
+      "id": "20260716-06-g2",
+      "seed": 176771503,
+      "home": {
+        "teamId": "#45BE",
+        "name": "akai"
+      },
+      "away": {
+        "teamId": "#C9F3",
+        "name": "不是尼克 (KK)"
+      },
+      "score": [
+        108,
+        128
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "SG",
+            "SF",
+            "PF",
+            "C",
+            "PG"
+          ],
+          "tacticalPositions": {
+            "4hu8jvt0kc": [
+              "PF"
+            ]
+          },
+          "schedules": [
+            {
+              "playerId": "qts0p6bb4g",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1440,
+                  "endSec": 1800
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2520,
+                  "endSec": 2880
+                }
+              ]
+            },
+            {
+              "playerId": "28scefnlss5",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1440,
+                  "endSec": 1800
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2520,
+                  "endSec": 2880
+                }
+              ]
+            },
+            {
+              "playerId": "4hu8jvt0kc",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1440,
+                  "endSec": 1800
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2520,
+                  "endSec": 2880
+                }
+              ]
+            },
+            {
+              "playerId": "rmkednbhwr",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1440,
+                  "endSec": 2160
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2400,
+                  "endSec": 2880
+                }
+              ]
+            },
+            {
+              "playerId": "1l2gac2psyk",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1440,
+                  "endSec": 1800
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2520,
+                  "endSec": 2880
+                }
+              ]
+            },
+            {
+              "playerId": "12d6r6wqbah",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 360,
+                  "endSec": 1080
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1800,
+                  "endSec": 2160
+                }
+              ]
+            }
+          ],
+          "teamTactics": [
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260716-06-g3",
+      "seed": 3143845694,
+      "home": {
+        "teamId": "#736D",
+        "name": "教練我想打球"
+      },
+      "away": {
+        "teamId": "#E27D",
+        "name": "J"
+      },
+      "score": [
+        112,
+        132
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "C",
+            "PG",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "schedules": [
+            {
+              "playerId": "1hdolmiafby",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260716-06-g4",
+      "seed": 1729616693,
+      "home": {
+        "teamId": "#C1C5",
+        "name": "吃披薩維生"
+      },
+      "away": {
+        "teamId": "#C736",
+        "name": "矇香架"
+      },
+      "score": [
+        113,
+        104
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "PG",
+            "SG",
+            "SF",
+            "PF",
+            "C"
+          ],
+          "positionWeights": {
+            "PG": {
+              "wingspan": 2,
+              "standing_reach": 1,
+              "speed": 4,
+              "jump": 2,
+              "strength": 1,
+              "agility": 4,
+              "endurance": 2,
+              "mid_range": 3,
+              "three_pointer": 3,
+              "inside_shot": 1,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "steal": 3,
+              "perimeter_defense": 3,
+              "interior_defense": 1,
+              "offensive_rebound": 1,
+              "defensive_rebound": 1,
+              "lateral_speed": 3,
+              "dribble": 5,
+              "catch": 3,
+              "passing": 5,
+              "post_move": 1,
+              "offensive_iq": 5,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 3,
+              "draw_foul": 2
+            },
+            "SG": {
+              "wingspan": 2,
+              "standing_reach": 1,
+              "speed": 4,
+              "jump": 2,
+              "strength": 2,
+              "agility": 4,
+              "endurance": 2,
+              "mid_range": 4,
+              "three_pointer": 5,
+              "inside_shot": 1,
+              "rim_attack": 3,
+              "free_throw": 3,
+              "steal": 3,
+              "perimeter_defense": 4,
+              "interior_defense": 1,
+              "offensive_rebound": 1,
+              "defensive_rebound": 2,
+              "lateral_speed": 4,
+              "dribble": 3,
+              "catch": 4,
+              "passing": 2,
+              "post_move": 1,
+              "offensive_iq": 3,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 2,
+              "draw_foul": 3
+            },
+            "SF": {
+              "wingspan": 3,
+              "standing_reach": 2,
+              "speed": 3,
+              "jump": 3,
+              "strength": 3,
+              "agility": 3,
+              "endurance": 2,
+              "mid_range": 4,
+              "three_pointer": 4,
+              "inside_shot": 2,
+              "rim_attack": 4,
+              "free_throw": 2,
+              "steal": 3,
+              "perimeter_defense": 4,
+              "interior_defense": 2,
+              "offensive_rebound": 2,
+              "defensive_rebound": 3,
+              "lateral_speed": 3,
+              "dribble": 3,
+              "catch": 3,
+              "passing": 2,
+              "post_move": 2,
+              "offensive_iq": 3,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 2,
+              "draw_foul": 2
+            },
+            "PF": {
+              "wingspan": 3,
+              "standing_reach": 4,
+              "speed": 2,
+              "jump": 3,
+              "strength": 4,
+              "agility": 2,
+              "endurance": 2,
+              "mid_range": 2,
+              "three_pointer": 3,
+              "inside_shot": 4,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "steal": 2,
+              "perimeter_defense": 2,
+              "interior_defense": 4,
+              "offensive_rebound": 4,
+              "defensive_rebound": 4,
+              "lateral_speed": 2,
+              "dribble": 1,
+              "catch": 2,
+              "passing": 2,
+              "post_move": 3,
+              "offensive_iq": 2,
+              "defensive_iq": 3,
+              "aggression": 3,
+              "leadership": 2,
+              "draw_foul": 2
+            },
+            "C": {
+              "wingspan": 2,
+              "standing_reach": 5,
+              "speed": 1,
+              "jump": 4,
+              "strength": 5,
+              "agility": 1,
+              "endurance": 2,
+              "mid_range": 2,
+              "three_pointer": 1,
+              "inside_shot": 4,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "steal": 1,
+              "perimeter_defense": 1,
+              "interior_defense": 5,
+              "offensive_rebound": 4,
+              "defensive_rebound": 5,
+              "lateral_speed": 2,
+              "dribble": 1,
+              "catch": 3,
+              "passing": 2,
+              "post_move": 4,
+              "offensive_iq": 2,
+              "defensive_iq": 4,
+              "aggression": 3,
+              "leadership": 2,
+              "draw_foul": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "20260716-06-g5",
+      "seed": 2761433199,
+      "home": {
+        "teamId": "#CA30",
+        "name": "醉心痕"
+      },
+      "away": {
+        "teamId": "#3090",
+        "name": "ER.ver2"
+      },
+      "score": [
+        126,
+        124
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    }
+  ]
+}

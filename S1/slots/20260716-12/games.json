@@ -3,8 +3,8 @@
   "slot": "20260716-12",
   "label": "第 1 週 · 07/16 12:00 場次",
   "week": 1,
-  "engineVersion": "0.17.0",
-  "generatedAt": "2026-07-16T04:00:26.285Z",
+  "engineVersion": "0.18.0",
+  "generatedAt": "2026-07-16T06:15:26.597Z",
   "games": [
     {
       "id": "20260716-12-g1",
@@ -18,8 +18,8 @@
         "name": "矇香架"
       },
       "score": [
-        123,
-        99
+        110,
+        113
       ],
       "cpu": false,
       "sub": [
@@ -69,14 +69,14 @@
               "inside_shot": 1,
               "rim_attack": 3,
               "free_throw": 2,
-              "steal": 3,
+              "stealing": 3,
               "perimeter_defense": 3,
               "interior_defense": 1,
               "offensive_rebound": 1,
               "defensive_rebound": 1,
               "lateral_speed": 3,
               "dribble": 5,
-              "catch": 3,
+              "catching": 3,
               "passing": 5,
               "post_move": 1,
               "offensive_iq": 5,
@@ -98,14 +98,14 @@
               "inside_shot": 1,
               "rim_attack": 3,
               "free_throw": 3,
-              "steal": 3,
+              "stealing": 3,
               "perimeter_defense": 4,
               "interior_defense": 1,
               "offensive_rebound": 1,
               "defensive_rebound": 2,
               "lateral_speed": 4,
               "dribble": 3,
-              "catch": 4,
+              "catching": 4,
               "passing": 2,
               "post_move": 1,
               "offensive_iq": 3,
@@ -127,14 +127,14 @@
               "inside_shot": 2,
               "rim_attack": 4,
               "free_throw": 2,
-              "steal": 3,
+              "stealing": 3,
               "perimeter_defense": 4,
               "interior_defense": 2,
               "offensive_rebound": 2,
               "defensive_rebound": 3,
               "lateral_speed": 3,
               "dribble": 3,
-              "catch": 3,
+              "catching": 3,
               "passing": 2,
               "post_move": 2,
               "offensive_iq": 3,
@@ -156,14 +156,14 @@
               "inside_shot": 4,
               "rim_attack": 3,
               "free_throw": 2,
-              "steal": 2,
+              "stealing": 2,
               "perimeter_defense": 2,
               "interior_defense": 4,
               "offensive_rebound": 4,
               "defensive_rebound": 4,
               "lateral_speed": 2,
               "dribble": 1,
-              "catch": 2,
+              "catching": 2,
               "passing": 2,
               "post_move": 3,
               "offensive_iq": 2,
@@ -185,14 +185,14 @@
               "inside_shot": 4,
               "rim_attack": 3,
               "free_throw": 2,
-              "steal": 1,
+              "stealing": 1,
               "perimeter_defense": 1,
               "interior_defense": 5,
               "offensive_rebound": 4,
               "defensive_rebound": 5,
               "lateral_speed": 2,
               "dribble": 1,
-              "catch": 3,
+              "catching": 3,
               "passing": 2,
               "post_move": 4,
               "offensive_iq": 2,
@@ -217,8 +217,8 @@
         "name": "palmk"
       },
       "score": [
-        105,
-        110
+        117,
+        127
       ],
       "cpu": false,
       "sub": [
@@ -240,8 +240,8 @@
         "name": "醉心痕"
       },
       "score": [
-        143,
-        130
+        117,
+        129
       ],
       "cpu": false,
       "sub": [
@@ -263,8 +263,8 @@
         "name": "吃披薩維生"
       },
       "score": [
-        110,
-        102
+        133,
+        98
       ],
       "cpu": false,
       "sub": [
@@ -429,8 +429,8 @@
         "name": "ER.ver2"
       },
       "score": [
-        102,
-        113
+        117,
+        116
       ],
       "cpu": false,
       "sub": [

@@ -1,0 +1,435 @@
+{
+  "season": "S1",
+  "slot": "20260717-18",
+  "label": "第 1 週 · 07/17 18:00 場次",
+  "week": 1,
+  "engineVersion": "0.18.0",
+  "generatedAt": "2026-07-17T10:00:24.392Z",
+  "games": [
+    {
+      "id": "20260717-18-g1",
+      "seed": 1761220062,
+      "home": {
+        "teamId": "#3090",
+        "name": "ER.ver2"
+      },
+      "away": {
+        "teamId": "#C1C5",
+        "name": "吃披薩維生"
+      },
+      "score": [
+        95,
+        120
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260717-18-g2",
+      "seed": 1623062172,
+      "home": {
+        "teamId": "#AC28",
+        "name": "J"
+      },
+      "away": {
+        "teamId": "#45BE",
+        "name": "akai"
+      },
+      "score": [
+        124,
+        117
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "C",
+            "PG",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "schedules": [
+            {
+              "playerId": "1hdolmiafby",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 60
+                }
+              ]
+            }
+          ],
+          "teamTactics": [
+            {
+              "tag": "側重外線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260717-18-g3",
+      "seed": 836385279,
+      "home": {
+        "teamId": "#9EDB",
+        "name": "palmk"
+      },
+      "away": {
+        "teamId": "#C736",
+        "name": "矇香架"
+      },
+      "score": [
+        113,
+        122
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "PG",
+            "SG",
+            "SF",
+            "PF",
+            "C"
+          ],
+          "positionWeights": {
+            "PG": {
+              "wingspan": 2,
+              "standing_reach": 1,
+              "speed": 4,
+              "jump": 2,
+              "strength": 1,
+              "agility": 4,
+              "endurance": 2,
+              "mid_range": 3,
+              "three_pointer": 3,
+              "inside_shot": 1,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "stealing": 3,
+              "perimeter_defense": 3,
+              "interior_defense": 1,
+              "offensive_rebound": 1,
+              "defensive_rebound": 1,
+              "lateral_speed": 3,
+              "dribble": 5,
+              "catching": 3,
+              "passing": 5,
+              "post_move": 1,
+              "offensive_iq": 5,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 3,
+              "draw_foul": 2
+            },
+            "SG": {
+              "wingspan": 2,
+              "standing_reach": 1,
+              "speed": 4,
+              "jump": 2,
+              "strength": 2,
+              "agility": 4,
+              "endurance": 2,
+              "mid_range": 4,
+              "three_pointer": 5,
+              "inside_shot": 1,
+              "rim_attack": 3,
+              "free_throw": 3,
+              "stealing": 3,
+              "perimeter_defense": 4,
+              "interior_defense": 1,
+              "offensive_rebound": 1,
+              "defensive_rebound": 2,
+              "lateral_speed": 4,
+              "dribble": 3,
+              "catching": 4,
+              "passing": 2,
+              "post_move": 1,
+              "offensive_iq": 3,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 2,
+              "draw_foul": 3
+            },
+            "SF": {
+              "wingspan": 3,
+              "standing_reach": 2,
+              "speed": 3,
+              "jump": 3,
+              "strength": 3,
+              "agility": 3,
+              "endurance": 2,
+              "mid_range": 4,
+              "three_pointer": 4,
+              "inside_shot": 2,
+              "rim_attack": 4,
+              "free_throw": 2,
+              "stealing": 3,
+              "perimeter_defense": 4,
+              "interior_defense": 2,
+              "offensive_rebound": 2,
+              "defensive_rebound": 3,
+              "lateral_speed": 3,
+              "dribble": 3,
+              "catching": 3,
+              "passing": 2,
+              "post_move": 2,
+              "offensive_iq": 3,
+              "defensive_iq": 3,
+              "aggression": 2,
+              "leadership": 2,
+              "draw_foul": 2
+            },
+            "PF": {
+              "wingspan": 3,
+              "standing_reach": 4,
+              "speed": 2,
+              "jump": 3,
+              "strength": 4,
+              "agility": 2,
+              "endurance": 2,
+              "mid_range": 2,
+              "three_pointer": 3,
+              "inside_shot": 4,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "stealing": 2,
+              "perimeter_defense": 2,
+              "interior_defense": 4,
+              "offensive_rebound": 4,
+              "defensive_rebound": 4,
+              "lateral_speed": 2,
+              "dribble": 1,
+              "catching": 2,
+              "passing": 2,
+              "post_move": 3,
+              "offensive_iq": 2,
+              "defensive_iq": 3,
+              "aggression": 3,
+              "leadership": 2,
+              "draw_foul": 2
+            },
+            "C": {
+              "wingspan": 2,
+              "standing_reach": 5,
+              "speed": 1,
+              "jump": 4,
+              "strength": 5,
+              "agility": 1,
+              "endurance": 2,
+              "mid_range": 2,
+              "three_pointer": 1,
+              "inside_shot": 4,
+              "rim_attack": 3,
+              "free_throw": 2,
+              "stealing": 1,
+              "perimeter_defense": 1,
+              "interior_defense": 5,
+              "offensive_rebound": 4,
+              "defensive_rebound": 5,
+              "lateral_speed": 2,
+              "dribble": 1,
+              "catching": 3,
+              "passing": 2,
+              "post_move": 4,
+              "offensive_iq": 2,
+              "defensive_iq": 4,
+              "aggression": 3,
+              "leadership": 2,
+              "draw_foul": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "20260717-18-g4",
+      "seed": 3471235310,
+      "home": {
+        "teamId": "#736D",
+        "name": "教練我想打球"
+      },
+      "away": {
+        "teamId": "#E856",
+        "name": "大爆射"
+      },
+      "score": [
+        92,
+        124
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false,
+          "teamTactics": [
+            {
+              "tag": "側重外線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260717-18-g5",
+      "seed": 3641413728,
+      "home": {
+        "teamId": "#B686",
+        "name": "難以預測大隊"
+      },
+      "away": {
+        "teamId": "#2E78",
+        "name": "死亡雙塔 (KK2隊)"
+      },
+      "score": [
+        111,
+        129
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false,
+          "schedules": [
+            {
+              "playerId": "1uocd1ryzn6",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            },
+            {
+              "playerId": "bxefcggdax",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            },
+            {
+              "playerId": "93vkarr74a",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            },
+            {
+              "playerId": "xhg295okbg",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            },
+            {
+              "playerId": "1d482tf5vcn",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            },
+            {
+              "playerId": "a31x1lgmnw",
+              "action": "clearTacPos",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            },
+            {
+              "playerId": "1znc4zznsij",
+              "action": "clearTacPos",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                }
+              ]
+            }
+          ],
+          "teamTactics": [
+            {
+              "tag": "側重內線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260717-18-g6",
+      "seed": 1490060048,
+      "home": {
+        "teamId": "#CA30",
+        "name": "醉心痕"
+      },
+      "away": {
+        "teamId": "CPU",
+        "name": "電腦隊"
+      },
+      "score": [
+        124,
+        118
+      ],
+      "cpu": true,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        null
+      ]
+    }
+  ]
+}

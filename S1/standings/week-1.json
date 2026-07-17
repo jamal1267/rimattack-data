@@ -3,7 +3,7 @@
   "range": "week-1",
   "label": "第 1 週",
   "engineVersion": "0.18.0",
-  "generatedAt": "2026-07-17T17:09:05.388Z",
+  "generatedAt": "2026-07-17T22:00:25.000Z",
   "rows": [
     {
       "rank": 1,
@@ -34,19 +34,35 @@
       "teamId": "#2E78",
       "name": "死亡雙塔 (KK2隊)",
       "w": 4,
-      "l": 0,
-      "gp": 4
+      "l": 1,
+      "gp": 5
     },
     {
       "rank": 5,
       "teamId": "#9EDB",
       "name": "palmk",
-      "w": 7,
+      "w": 8,
       "l": 6,
-      "gp": 13
+      "gp": 14
     },
     {
       "rank": 6,
+      "teamId": "#C1C5",
+      "name": "吃披薩維生",
+      "w": 10,
+      "l": 9,
+      "gp": 19
+    },
+    {
+      "rank": 7,
+      "teamId": "#45BE",
+      "name": "akai",
+      "w": 8,
+      "l": 7,
+      "gp": 15
+    },
+    {
+      "rank": 8,
       "teamId": "#3FEA",
       "name": "KK",
       "w": 5,
@@ -54,39 +70,31 @@
       "gp": 9
     },
     {
-      "rank": 7,
-      "teamId": "#C1C5",
-      "name": "吃披薩維生",
-      "w": 9,
-      "l": 9,
-      "gp": 18
-    },
-    {
-      "rank": 8,
-      "teamId": "#45BE",
-      "name": "akai",
-      "w": 7,
-      "l": 7,
-      "gp": 14
-    },
-    {
-      "rank": 9,
-      "teamId": "#AC28",
-      "name": "J",
-      "w": 1,
-      "l": 1,
-      "gp": 2
-    },
-    {
       "rank": 9,
       "teamId": "#E856",
       "name": "大爆射",
-      "w": 1,
+      "w": 2,
       "l": 1,
-      "gp": 2
+      "gp": 3
+    },
+    {
+      "rank": 10,
+      "teamId": "#736D",
+      "name": "教練我想打球",
+      "w": 9,
+      "l": 10,
+      "gp": 19
     },
     {
       "rank": 11,
+      "teamId": "#C736",
+      "name": "矇香架",
+      "w": 8,
+      "l": 9,
+      "gp": 17
+    },
+    {
+      "rank": 12,
       "teamId": "#E50F",
       "name": "ER",
       "w": 2,
@@ -94,44 +102,36 @@
       "gp": 5
     },
     {
-      "rank": 12,
-      "teamId": "#34B0",
-      "name": "字體魔術P⃝aceŖ.⃝ (ER.3)",
-      "w": 0,
-      "l": 1,
-      "gp": 1
-    },
-    {
       "rank": 13,
-      "teamId": "#736D",
-      "name": "教練我想打球",
-      "w": 8,
-      "l": 10,
-      "gp": 18
+      "teamId": "#AC28",
+      "name": "J",
+      "w": 1,
+      "l": 2,
+      "gp": 3
     },
     {
       "rank": 14,
-      "teamId": "#C736",
-      "name": "矇香架",
-      "w": 7,
-      "l": 9,
-      "gp": 16
+      "teamId": "#34B0",
+      "name": "字體魔術P⃝aceŖ.⃝ (ER.3)",
+      "w": 0,
+      "l": 2,
+      "gp": 2
     },
     {
       "rank": 15,
       "teamId": "#CA30",
       "name": "醉心痕",
       "w": 8,
-      "l": 12,
-      "gp": 20
+      "l": 13,
+      "gp": 21
     },
     {
       "rank": 16,
       "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 5,
-      "l": 14,
-      "gp": 19
+      "l": 15,
+      "gp": 20
     }
   ]
 }

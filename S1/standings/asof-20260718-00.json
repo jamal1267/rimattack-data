@@ -1,7 +1,7 @@
 {
   "season": "S1",
-  "range": "season",
-  "label": "本季",
+  "range": "asof-20260718-00",
+  "label": "截至 第 1 週 · 07/18 00:00 場次",
   "engineVersion": "0.18.0",
   "generatedAt": "2026-07-17T16:00:31.634Z",
   "rows": [

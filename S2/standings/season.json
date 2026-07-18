@@ -1,0 +1,97 @@
+{
+  "season": "S2",
+  "range": "season",
+  "label": "本季",
+  "engineVersion": "0.18.0",
+  "generatedAt": "2026-07-18T10:00:32.927Z",
+  "rows": [
+    {
+      "rank": 1,
+      "teamId": "#45BE",
+      "name": "akai",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 1,
+      "teamId": "#5F4A",
+      "name": "死亡雙塔 (KK2隊)",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 1,
+      "teamId": "#736D",
+      "name": "教練我想打球",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 1,
+      "teamId": "#AC28",
+      "name": "J",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 1,
+      "teamId": "#C736",
+      "name": "矇香架",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 1,
+      "teamId": "#E856",
+      "name": "大爆射",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 7,
+      "teamId": "#34B0",
+      "name": "字體魔術P⃝aceŖ.⃝ (ER.3)",
+      "w": 0,
+      "l": 1,
+      "gp": 1
+    },
+    {
+      "rank": 7,
+      "teamId": "#9EDB",
+      "name": "palmk",
+      "w": 0,
+      "l": 1,
+      "gp": 1
+    },
+    {
+      "rank": 7,
+      "teamId": "#B686",
+      "name": "難以預測大隊",
+      "w": 0,
+      "l": 1,
+      "gp": 1
+    },
+    {
+      "rank": 7,
+      "teamId": "#C1C5",
+      "name": "吃披薩維生",
+      "w": 0,
+      "l": 1,
+      "gp": 1
+    },
+    {
+      "rank": 7,
+      "teamId": "#CA30",
+      "name": "醉心痕",
+      "w": 0,
+      "l": 1,
+      "gp": 1
+    }
+  ]
+}

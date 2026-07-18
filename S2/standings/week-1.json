@@ -3,34 +3,42 @@
   "range": "week-1",
   "label": "第 1 週",
   "engineVersion": "0.18.0",
-  "generatedAt": "2026-07-18T16:55:47.548Z",
+  "generatedAt": "2026-07-18T22:00:30.985Z",
   "rows": [
     {
       "rank": 1,
       "teamId": "#45BE",
       "name": "akai",
-      "w": 2,
+      "w": 3,
       "l": 0,
-      "gp": 2
+      "gp": 3
     },
     {
       "rank": 1,
       "teamId": "#736D",
       "name": "教練我想打球",
-      "w": 2,
+      "w": 3,
       "l": 0,
-      "gp": 2
+      "gp": 3
     },
     {
       "rank": 1,
       "teamId": "#E856",
       "name": "大爆射",
-      "w": 2,
+      "w": 3,
       "l": 0,
-      "gp": 2
+      "gp": 3
     },
     {
       "rank": 4,
+      "teamId": "#AC28",
+      "name": "J",
+      "w": 2,
+      "l": 1,
+      "gp": 3
+    },
+    {
+      "rank": 5,
       "teamId": "#C736",
       "name": "矇香架",
       "w": 1,
@@ -39,6 +47,14 @@
     },
     {
       "rank": 5,
+      "teamId": "#D501",
+      "name": "側翼海 (KK 3隊)",
+      "w": 1,
+      "l": 0,
+      "gp": 1
+    },
+    {
+      "rank": 7,
       "teamId": "#5F4A",
       "name": "死亡雙塔 (KK2隊)",
       "w": 1,
@@ -46,60 +62,52 @@
       "gp": 2
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "teamId": "#34B0",
+      "name": "字體魔術P⃝aceŖ.⃝ (ER.3)",
+      "w": 1,
+      "l": 2,
+      "gp": 3
+    },
+    {
+      "rank": 8,
       "teamId": "#9EDB",
       "name": "palmk",
       "w": 1,
-      "l": 1,
-      "gp": 2
+      "l": 2,
+      "gp": 3
     },
     {
-      "rank": 5,
-      "teamId": "#AC28",
-      "name": "J",
-      "w": 1,
-      "l": 1,
-      "gp": 2
-    },
-    {
-      "rank": 5,
+      "rank": 8,
       "teamId": "#C1C5",
       "name": "吃披薩維生",
       "w": 1,
-      "l": 1,
-      "gp": 2
+      "l": 2,
+      "gp": 3
     },
     {
-      "rank": 5,
+      "rank": 8,
       "teamId": "#CA30",
       "name": "醉心痕",
       "w": 1,
-      "l": 1,
-      "gp": 2
+      "l": 2,
+      "gp": 3
     },
     {
-      "rank": 10,
+      "rank": 12,
       "teamId": "#F3C0",
       "name": "nv",
       "w": 0,
-      "l": 1,
-      "gp": 1
-    },
-    {
-      "rank": 11,
-      "teamId": "#34B0",
-      "name": "字體魔術P⃝aceŖ.⃝ (ER.3)",
-      "w": 0,
       "l": 2,
       "gp": 2
     },
     {
-      "rank": 11,
+      "rank": 13,
       "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 0,
-      "l": 2,
-      "gp": 2
+      "l": 3,
+      "gp": 3
     }
   ]
 }

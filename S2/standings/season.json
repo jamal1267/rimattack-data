@@ -3,47 +3,47 @@
   "range": "season",
   "label": "本季",
   "engineVersion": "0.18.0",
-  "generatedAt": "2026-07-20T22:58:35.741Z",
+  "generatedAt": "2026-07-21T04:00:43.233Z",
   "rows": [
     {
       "rank": 1,
       "teamId": "#D501",
       "name": "側翼海 (KK 3隊)",
-      "w": 9,
+      "w": 10,
       "l": 0,
-      "gp": 9
-    },
-    {
-      "rank": 2,
-      "teamId": "#736D",
-      "name": "教練我想打球",
-      "w": 9,
-      "l": 2,
-      "gp": 11
+      "gp": 10
     },
     {
       "rank": 2,
       "teamId": "#9EDB",
       "name": "palmk",
-      "w": 9,
+      "w": 10,
       "l": 2,
-      "gp": 11
+      "gp": 12
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "teamId": "#736D",
+      "name": "教練我想打球",
+      "w": 9,
+      "l": 3,
+      "gp": 12
+    },
+    {
+      "rank": 3,
       "teamId": "#E856",
       "name": "大爆射",
       "w": 9,
-      "l": 2,
-      "gp": 11
+      "l": 3,
+      "gp": 12
     },
     {
       "rank": 5,
       "teamId": "#45BE",
       "name": "akai",
       "w": 7,
-      "l": 4,
-      "gp": 11
+      "l": 5,
+      "gp": 12
     },
     {
       "rank": 6,
@@ -66,56 +66,56 @@
       "teamId": "#C1C5",
       "name": "吃披薩維生",
       "w": 5,
-      "l": 6,
-      "gp": 11
+      "l": 7,
+      "gp": 12
     },
     {
       "rank": 8,
       "teamId": "#CA30",
       "name": "醉心痕",
       "w": 5,
-      "l": 6,
-      "gp": 11
+      "l": 7,
+      "gp": 12
     },
     {
       "rank": 10,
       "teamId": "#D8C0",
       "name": "玩玩看",
       "w": 0,
-      "l": 1,
-      "gp": 1
+      "l": 2,
+      "gp": 2
     },
     {
       "rank": 11,
       "teamId": "#34B0",
       "name": "字體魔術P⃝aceŖ.⃝ (ER.3)",
-      "w": 3,
+      "w": 4,
       "l": 8,
-      "gp": 11
+      "gp": 12
     },
     {
       "rank": 11,
       "teamId": "#AC28",
       "name": "J",
-      "w": 3,
+      "w": 4,
       "l": 8,
-      "gp": 11
+      "gp": 12
     },
     {
       "rank": 11,
       "teamId": "#B686",
       "name": "難以預測大隊",
-      "w": 3,
+      "w": 4,
       "l": 8,
-      "gp": 11
+      "gp": 12
     },
     {
       "rank": 14,
       "teamId": "#F3C0",
       "name": "nv",
-      "w": 1,
+      "w": 2,
       "l": 9,
-      "gp": 10
+      "gp": 11
     }
   ]
 }

@@ -1,0 +1,332 @@
+{
+  "season": "S2",
+  "slot": "20260721-12",
+  "label": "第 1 週 · 07/21 12:00 場次",
+  "week": 1,
+  "engineVersion": "0.18.0",
+  "generatedAt": "2026-07-21T04:00:43.233Z",
+  "games": [
+    {
+      "id": "20260721-12-g1",
+      "seed": 243855234,
+      "home": {
+        "teamId": "#9EDB",
+        "name": "palmk"
+      },
+      "away": {
+        "teamId": "#D8C0",
+        "name": "玩玩看"
+      },
+      "score": [
+        118,
+        116
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260721-12-g2",
+      "seed": 2133835941,
+      "home": {
+        "teamId": "#C1C5",
+        "name": "吃披薩維生"
+      },
+      "away": {
+        "teamId": "#D501",
+        "name": "側翼海 (KK 3隊)"
+      },
+      "score": [
+        107,
+        114
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    },
+    {
+      "id": "20260721-12-g3",
+      "seed": 2244115135,
+      "home": {
+        "teamId": "#F3C0",
+        "name": "nv"
+      },
+      "away": {
+        "teamId": "#E856",
+        "name": "大爆射"
+      },
+      "score": [
+        116,
+        113
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": true,
+          "schedules": [
+            {
+              "playerId": "21u00crtdil",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1080,
+                  "endSec": 1440
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1500,
+                  "endSec": 1980
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2220,
+                  "endSec": 2880
+                }
+              ]
+            }
+          ],
+          "teamTactics": [
+            {
+              "tag": "進攻節奏快速",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 2880
+                }
+              ]
+            },
+            {
+              "tag": "側重外線防守",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 2880
+                }
+              ]
+            }
+          ],
+          "playerTactics": [
+            {
+              "playerId": "21u00crtdil",
+              "tag": "test",
+              "conditions": [
+                {
+                  "kind": "onCourt",
+                  "playerId": "21u00crtdil",
+                  "value": true
+                },
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 360
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1080,
+                  "endSec": 1440
+                },
+                {
+                  "kind": "time",
+                  "startSec": 1500,
+                  "endSec": 1980
+                },
+                {
+                  "kind": "time",
+                  "startSec": 2220,
+                  "endSec": 2880
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fatigueSubToggle": false,
+          "teamTactics": [
+            {
+              "tag": "側重外線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260721-12-g4",
+      "seed": 3804642983,
+      "home": {
+        "teamId": "#736D",
+        "name": "教練我想打球"
+      },
+      "away": {
+        "teamId": "#AC28",
+        "name": "J"
+      },
+      "score": [
+        114,
+        130
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "C",
+            "PG",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "schedules": [
+            {
+              "playerId": "1hdolmiafby",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 60
+                }
+              ]
+            }
+          ],
+          "teamTactics": [
+            {
+              "tag": "側重外線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260721-12-g5",
+      "seed": 2838497923,
+      "home": {
+        "teamId": "#CA30",
+        "name": "醉心痕"
+      },
+      "away": {
+        "teamId": "#34B0",
+        "name": "字體魔術P⃝aceŖ.⃝ (ER.3)"
+      },
+      "score": [
+        114,
+        121
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false,
+          "schedules": [
+            {
+              "playerId": "joq64bd976",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 492
+                }
+              ]
+            },
+            {
+              "playerId": "xbwgkzlv",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 492
+                }
+              ]
+            },
+            {
+              "playerId": "n0h4cjxypb",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 504
+                }
+              ]
+            },
+            {
+              "playerId": "zko6dtrm8h",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 492
+                }
+              ]
+            },
+            {
+              "playerId": "17ffvg082o7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 492
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260721-12-g6",
+      "seed": 1957883165,
+      "home": {
+        "teamId": "#B686",
+        "name": "難以預測大隊"
+      },
+      "away": {
+        "teamId": "#45BE",
+        "name": "akai"
+      },
+      "score": [
+        119,
+        101
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    }
+  ]
+}

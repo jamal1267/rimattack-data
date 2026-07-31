@@ -1,0 +1,13 @@
+{
+  "season": "S3",
+  "slot": "20260731-18",
+  "generatedAt": "2026-07-31T10:01:15.623Z",
+  "accepted": 12,
+  "skipped": [
+    {
+      "account": "0DA9A9F0",
+      "nickname": "柚子",
+      "reason": "球隊碼無法解析(格式錯誤或損毀)。"
+    }
+  ]
+}

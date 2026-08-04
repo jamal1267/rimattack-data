@@ -3,103 +3,103 @@
   "range": "week-1",
   "label": "第 1 週",
   "engineVersion": "0.18.0",
-  "generatedAt": "2026-08-04T17:46:15.756Z",
+  "generatedAt": "2026-08-04T22:01:21.780Z",
   "rows": [
+    {
+      "rank": 1,
+      "teamId": "#D501",
+      "name": "側翼海 (KK 3隊)",
+      "w": 14,
+      "l": 1,
+      "gp": 15
+    },
     {
       "rank": 1,
       "teamId": "#E856",
       "name": "大爆射",
       "w": 14,
-      "l": 0,
-      "gp": 14
-    },
-    {
-      "rank": 2,
-      "teamId": "#D501",
-      "name": "側翼海 (KK 3隊)",
-      "w": 13,
       "l": 1,
-      "gp": 14
+      "gp": 15
     },
     {
       "rank": 3,
       "teamId": "#6720",
       "name": "矇香架",
-      "w": 10,
+      "w": 11,
       "l": 4,
-      "gp": 14
+      "gp": 15
     },
     {
       "rank": 4,
       "teamId": "#736D",
       "name": "教練我想打球",
-      "w": 9,
+      "w": 10,
       "l": 5,
-      "gp": 14
+      "gp": 15
     },
     {
       "rank": 4,
       "teamId": "#D8C0",
       "name": "玩玩看",
-      "w": 9,
+      "w": 10,
       "l": 5,
-      "gp": 14
+      "gp": 15
     },
     {
       "rank": 6,
       "teamId": "#C1C5",
       "name": "吃披薩維生",
       "w": 6,
-      "l": 8,
-      "gp": 14
+      "l": 9,
+      "gp": 15
+    },
+    {
+      "rank": 7,
+      "teamId": "#45BE",
+      "name": "akai",
+      "w": 5,
+      "l": 10,
+      "gp": 15
     },
     {
       "rank": 7,
       "teamId": "#9EDB",
       "name": "palmk",
       "w": 5,
-      "l": 9,
-      "gp": 14
-    },
-    {
-      "rank": 8,
-      "teamId": "#45BE",
-      "name": "akai",
-      "w": 4,
       "l": 10,
-      "gp": 14
+      "gp": 15
     },
     {
-      "rank": 8,
+      "rank": 9,
       "teamId": "#AC28",
       "name": "J",
       "w": 4,
-      "l": 10,
-      "gp": 14
+      "l": 11,
+      "gp": 15
     },
     {
-      "rank": 8,
+      "rank": 9,
       "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 4,
-      "l": 10,
-      "gp": 14
+      "l": 11,
+      "gp": 15
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "teamId": "#CA30",
+      "name": "醉心痕",
+      "w": 4,
+      "l": 11,
+      "gp": 15
+    },
+    {
+      "rank": 12,
       "teamId": "#1120",
       "name": "ERror Ja是神突",
       "w": 3,
-      "l": 11,
-      "gp": 14
-    },
-    {
-      "rank": 11,
-      "teamId": "#CA30",
-      "name": "醉心痕",
-      "w": 3,
-      "l": 11,
-      "gp": 14
+      "l": 12,
+      "gp": 15
     }
   ]
 }

@@ -3,103 +3,103 @@
   "range": "season",
   "label": "本季",
   "engineVersion": "0.18.0",
-  "generatedAt": "2026-08-06T06:27:46.698Z",
+  "generatedAt": "2026-08-06T10:01:05.732Z",
   "rows": [
     {
       "rank": 1,
       "teamId": "#D501",
       "name": "側翼海 (KK 3隊)",
       "w": 19,
-      "l": 1,
-      "gp": 20
+      "l": 2,
+      "gp": 21
     },
     {
       "rank": 2,
       "teamId": "#E856",
       "name": "大爆射",
-      "w": 15,
+      "w": 16,
       "l": 5,
-      "gp": 20
+      "gp": 21
     },
     {
       "rank": 3,
       "teamId": "#6720",
       "name": "矇香架",
-      "w": 14,
+      "w": 15,
       "l": 6,
-      "gp": 20
+      "gp": 21
     },
     {
       "rank": 4,
       "teamId": "#D8C0",
       "name": "玩玩看",
-      "w": 13,
+      "w": 14,
       "l": 7,
-      "gp": 20
+      "gp": 21
     },
     {
       "rank": 5,
       "teamId": "#736D",
       "name": "教練我想打球",
-      "w": 12,
+      "w": 13,
       "l": 8,
-      "gp": 20
+      "gp": 21
     },
     {
       "rank": 6,
       "teamId": "#9EDB",
       "name": "palmk",
-      "w": 8,
+      "w": 9,
       "l": 12,
-      "gp": 20
+      "gp": 21
     },
     {
       "rank": 6,
       "teamId": "#C1C5",
       "name": "吃披薩維生",
-      "w": 8,
+      "w": 9,
       "l": 12,
-      "gp": 20
+      "gp": 21
     },
     {
       "rank": 8,
       "teamId": "#1120",
       "name": "ERror Ja是神突",
       "w": 7,
-      "l": 13,
-      "gp": 20
+      "l": 14,
+      "gp": 21
     },
     {
       "rank": 8,
       "teamId": "#45BE",
       "name": "akai",
       "w": 7,
-      "l": 13,
-      "gp": 20
+      "l": 14,
+      "gp": 21
     },
     {
       "rank": 10,
       "teamId": "#AC28",
       "name": "J",
       "w": 6,
-      "l": 14,
-      "gp": 20
+      "l": 15,
+      "gp": 21
     },
     {
       "rank": 10,
       "teamId": "#CA30",
       "name": "醉心痕",
       "w": 6,
-      "l": 14,
-      "gp": 20
+      "l": 15,
+      "gp": 21
     },
     {
       "rank": 12,
       "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 5,
-      "l": 15,
-      "gp": 20
+      "l": 16,
+      "gp": 21
     }
   ]
 }

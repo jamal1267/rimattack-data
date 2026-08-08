@@ -1,0 +1,922 @@
+{
+  "season": "S4",
+  "slot": "20260808-12",
+  "label": "第 1 週 · 08/08 12:00 場次",
+  "week": 1,
+  "engineVersion": "0.18.0",
+  "generatedAt": "2026-08-08T04:00:56.300Z",
+  "games": [
+    {
+      "id": "20260808-12-g1",
+      "seed": 1906139633,
+      "home": {
+        "teamId": "#9EDB",
+        "name": "palmk"
+      },
+      "away": {
+        "teamId": "#C1C5",
+        "name": "吃披薩維生"
+      },
+      "score": [
+        135,
+        128
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        null
+      ]
+    },
+    {
+      "id": "20260808-12-g2",
+      "seed": 3309724617,
+      "home": {
+        "teamId": "#B686",
+        "name": "難以預測大隊"
+      },
+      "away": {
+        "teamId": "#E856",
+        "name": "大爆射"
+      },
+      "score": [
+        109,
+        129
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        {
+          "fatigueSubToggle": false,
+          "teamTactics": [
+            {
+              "tag": "側重外線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20260808-12-g3",
+      "seed": 3495542650,
+      "home": {
+        "teamId": "#736D",
+        "name": "教練我想打球"
+      },
+      "away": {
+        "teamId": "#CA30",
+        "name": "醉心痕"
+      },
+      "score": [
+        134,
+        107
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false
+        },
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    },
+    {
+      "id": "20260808-12-g4",
+      "seed": 2759913544,
+      "home": {
+        "teamId": "#D8C0",
+        "name": "玩玩看"
+      },
+      "away": {
+        "teamId": "#45BE",
+        "name": "akai"
+      },
+      "score": [
+        127,
+        124
+      ],
+      "cpu": false,
+      "sub": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": "20260808-12-g5",
+      "seed": 380312753,
+      "home": {
+        "teamId": "#1120",
+        "name": "ERror Ja是神突"
+      },
+      "away": {
+        "teamId": "#D501",
+        "name": "側翼海 (KK 3隊)"
+      },
+      "score": [
+        111,
+        130
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "PG",
+            "C",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "tacticalPositions": {
+            "arex1er7pa": [
+              "SG"
+            ],
+            "oj00lwl5oq": [
+              "SF"
+            ],
+            "rvgur5vpyq": [
+              "SG"
+            ],
+            "28vtlwtdzbe": [
+              "PG",
+              "SG"
+            ]
+          },
+          "schedules": [
+            {
+              "playerId": "6hrwbliy98",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2158,
+                  "endSec": 2364
+                }
+              ]
+            },
+            {
+              "playerId": "2gmu130fg0w",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2158,
+                  "endSec": 2364
+                }
+              ]
+            },
+            {
+              "playerId": "1kyiz2tf0a9",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2158,
+                  "endSec": 2364
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2158,
+                  "endSec": 2364
+                }
+              ]
+            },
+            {
+              "playerId": "arex1er7pa",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2158,
+                  "endSec": 2364
+                }
+              ]
+            },
+            {
+              "playerId": "oj00lwl5oq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 451
+                }
+              ]
+            },
+            {
+              "playerId": "rvgur5vpyq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 451
+                }
+              ]
+            },
+            {
+              "playerId": "oypxyqara7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 451
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 451
+                }
+              ]
+            },
+            {
+              "playerId": "157oo5y07k7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 451
+                }
+              ]
+            },
+            {
+              "playerId": "6hrwbliy98",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 451,
+                  "endSec": 721
+                }
+              ]
+            },
+            {
+              "playerId": "2gmu130fg0w",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 451,
+                  "endSec": 721
+                }
+              ]
+            },
+            {
+              "playerId": "1kyiz2tf0a9",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 451,
+                  "endSec": 721
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 451,
+                  "endSec": 721
+                }
+              ]
+            },
+            {
+              "playerId": "arex1er7pa",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 451,
+                  "endSec": 721
+                }
+              ]
+            },
+            {
+              "playerId": "oj00lwl5oq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 721,
+                  "endSec": 1024
+                }
+              ]
+            },
+            {
+              "playerId": "rvgur5vpyq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 721,
+                  "endSec": 1024
+                }
+              ]
+            },
+            {
+              "playerId": "oypxyqara7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 721,
+                  "endSec": 1024
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 721,
+                  "endSec": 1024
+                }
+              ]
+            },
+            {
+              "playerId": "157oo5y07k7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 721,
+                  "endSec": 1024
+                }
+              ]
+            },
+            {
+              "playerId": "6hrwbliy98",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1024,
+                  "endSec": 1163
+                }
+              ]
+            },
+            {
+              "playerId": "2gmu130fg0w",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1024,
+                  "endSec": 1163
+                }
+              ]
+            },
+            {
+              "playerId": "1kyiz2tf0a9",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1024,
+                  "endSec": 1163
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1024,
+                  "endSec": 1163
+                }
+              ]
+            },
+            {
+              "playerId": "arex1er7pa",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1024,
+                  "endSec": 1163
+                }
+              ]
+            },
+            {
+              "playerId": "oj00lwl5oq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1163,
+                  "endSec": 1551
+                }
+              ]
+            },
+            {
+              "playerId": "rvgur5vpyq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1163,
+                  "endSec": 1551
+                }
+              ]
+            },
+            {
+              "playerId": "oypxyqara7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1163,
+                  "endSec": 1551
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1163,
+                  "endSec": 1551
+                }
+              ]
+            },
+            {
+              "playerId": "157oo5y07k7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1163,
+                  "endSec": 1551
+                }
+              ]
+            },
+            {
+              "playerId": "11558aycuo9",
+              "action": "clearTacPos",
+              "conditions": []
+            },
+            {
+              "playerId": "ptsc69atyn",
+              "action": "clearTacPos",
+              "conditions": []
+            },
+            {
+              "playerId": "6hrwbliy98",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1551,
+                  "endSec": 1788
+                }
+              ]
+            },
+            {
+              "playerId": "2gmu130fg0w",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1551,
+                  "endSec": 1788
+                }
+              ]
+            },
+            {
+              "playerId": "1kyiz2tf0a9",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1551,
+                  "endSec": 1788
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1551,
+                  "endSec": 1788
+                }
+              ]
+            },
+            {
+              "playerId": "arex1er7pa",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1551,
+                  "endSec": 1788
+                }
+              ]
+            },
+            {
+              "playerId": "oj00lwl5oq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1788,
+                  "endSec": 1829
+                }
+              ]
+            },
+            {
+              "playerId": "rvgur5vpyq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1788,
+                  "endSec": 1829
+                }
+              ]
+            },
+            {
+              "playerId": "oypxyqara7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1788,
+                  "endSec": 1829
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1788,
+                  "endSec": 1829
+                }
+              ]
+            },
+            {
+              "playerId": "157oo5y07k7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1788,
+                  "endSec": 1829
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1823,
+                  "endSec": 1999
+                }
+              ]
+            },
+            {
+              "playerId": "oypxyqara7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1826,
+                  "endSec": 1999
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1826,
+                  "endSec": 1999
+                }
+              ]
+            },
+            {
+              "playerId": "157oo5y07k7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1826,
+                  "endSec": 1999
+                }
+              ]
+            },
+            {
+              "playerId": "oj00lwl5oq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1999,
+                  "endSec": 2111
+                }
+              ]
+            },
+            {
+              "playerId": "rvgur5vpyq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1999,
+                  "endSec": 2111
+                }
+              ]
+            },
+            {
+              "playerId": "oypxyqara7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1999,
+                  "endSec": 2111
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1999,
+                  "endSec": 2111
+                }
+              ]
+            },
+            {
+              "playerId": "157oo5y07k7",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 1999,
+                  "endSec": 2111
+                }
+              ]
+            },
+            {
+              "playerId": "6hrwbliy98",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2111,
+                  "endSec": 2386
+                }
+              ]
+            },
+            {
+              "playerId": "2gmu130fg0w",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2111,
+                  "endSec": 2386
+                }
+              ]
+            },
+            {
+              "playerId": "1kyiz2tf0a9",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2111,
+                  "endSec": 2386
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2111,
+                  "endSec": 2386
+                }
+              ]
+            },
+            {
+              "playerId": "arex1er7pa",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2111,
+                  "endSec": 2386
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2464,
+                  "endSec": 2614
+                },
+                {
+                  "kind": "onCourt",
+                  "playerId": "oypxyqara7",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2464,
+                  "endSec": 2614
+                },
+                {
+                  "kind": "onCourt",
+                  "playerId": "oypxyqara7",
+                  "value": true
+                }
+              ]
+            },
+            {
+              "playerId": "3oqoxh88oo",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2465,
+                  "endSec": 2614
+                },
+                {
+                  "kind": "onCourt",
+                  "playerId": "oypxyqara7",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "playerId": "28vtlwtdzbe",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2466,
+                  "endSec": 2615
+                },
+                {
+                  "kind": "onCourt",
+                  "playerId": "oypxyqara7",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "playerId": "rvgur5vpyq",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 2355,
+                  "endSec": 2614
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fatigueSubToggle": false
+        }
+      ]
+    },
+    {
+      "id": "20260808-12-g6",
+      "seed": 227733002,
+      "home": {
+        "teamId": "#AC28",
+        "name": "J"
+      },
+      "away": {
+        "teamId": "#6720",
+        "name": "矇香架"
+      },
+      "score": [
+        115,
+        112
+      ],
+      "cpu": false,
+      "sub": [
+        {
+          "fatigueSubToggle": false,
+          "positionOrder": [
+            "C",
+            "PG",
+            "SG",
+            "SF",
+            "PF"
+          ],
+          "schedules": [
+            {
+              "playerId": "1hdolmiafby",
+              "action": "forceIn",
+              "conditions": [
+                {
+                  "kind": "time",
+                  "startSec": 0,
+                  "endSec": 60
+                }
+              ]
+            }
+          ],
+          "teamTactics": [
+            {
+              "tag": "側重外線進攻",
+              "conditions": []
+            },
+            {
+              "tag": "進攻節奏快速",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "fatigueSubToggle": true,
+          "tacticalPositions": {
+            "zeg58if2vx": [
+              "PF",
+              "C"
+            ],
+            "15olrrzh9jy": [
+              "SG",
+              "SF"
+            ],
+            "fsqvy99fp1": [
+              "PG",
+              "SG",
+              "SF"
+            ],
+            "8vr4k7og93": [
+              "SF",
+              "PF"
+            ],
+            "1qk9muaemw9": [
+              "SG",
+              "SF"
+            ],
+            "127jimlr6q0": [
+              "SF",
+              "PF"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

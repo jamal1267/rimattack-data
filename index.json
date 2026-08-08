@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-08-08T04:53:46.047Z",
+  "generatedAt": "2026-08-08T10:00:55.256Z",
   "engineVersion": "0.18.0",
   "latest": {
-    "season": "S4",
+    "season": "S5",
     "week": 1,
-    "slot": "20260808-12"
+    "slot": "20260808-18"
   },
   "seasons": [
     {
@@ -681,6 +681,24 @@
         {
           "id": "20260801-18",
           "label": "第 1 週 · 08/01 18:00 場次",
+          "week": 1,
+          "games": 6
+        }
+      ]
+    },
+    {
+      "id": "S5",
+      "label": "第 5 季",
+      "weeks": [
+        {
+          "n": 1,
+          "label": "第 1 週"
+        }
+      ],
+      "slots": [
+        {
+          "id": "20260808-18",
+          "label": "第 1 週 · 08/08 18:00 場次",
           "week": 1,
           "games": 6
         }

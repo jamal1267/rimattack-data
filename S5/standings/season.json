@@ -3,103 +3,103 @@
   "range": "season",
   "label": "本季",
   "engineVersion": "0.18.0",
-  "generatedAt": "2026-08-14T05:36:15.018Z",
+  "generatedAt": "2026-08-14T10:01:01.626Z",
   "rows": [
     {
       "rank": 1,
       "teamId": "#E856",
       "name": "大爆射",
-      "w": 23,
+      "w": 24,
       "l": 1,
-      "gp": 24
+      "gp": 25
     },
     {
       "rank": 2,
       "teamId": "#D501",
       "name": "側翼海 (KK 3隊)",
-      "w": 22,
+      "w": 23,
       "l": 2,
-      "gp": 24
+      "gp": 25
     },
     {
       "rank": 3,
       "teamId": "#9EDB",
       "name": "palmk",
-      "w": 18,
+      "w": 19,
       "l": 6,
-      "gp": 24
+      "gp": 25
     },
     {
       "rank": 4,
       "teamId": "#736D",
       "name": "教練我想打球",
-      "w": 15,
+      "w": 16,
       "l": 9,
-      "gp": 24
+      "gp": 25
     },
     {
       "rank": 5,
       "teamId": "#6720",
       "name": "矇香架",
       "w": 13,
-      "l": 11,
-      "gp": 24
+      "l": 12,
+      "gp": 25
     },
     {
       "rank": 6,
       "teamId": "#CA30",
       "name": "醉心痕",
       "w": 11,
-      "l": 13,
-      "gp": 24
+      "l": 14,
+      "gp": 25
     },
     {
       "rank": 6,
       "teamId": "#D8C0",
       "name": "玩玩看",
       "w": 11,
-      "l": 13,
-      "gp": 24
+      "l": 14,
+      "gp": 25
     },
     {
       "rank": 8,
       "teamId": "#45BE",
       "name": "akai",
       "w": 8,
-      "l": 16,
-      "gp": 24
+      "l": 17,
+      "gp": 25
     },
     {
-      "rank": 9,
+      "rank": 8,
       "teamId": "#C1C5",
       "name": "吃披薩維生",
-      "w": 7,
+      "w": 8,
       "l": 17,
-      "gp": 24
+      "gp": 25
+    },
+    {
+      "rank": 10,
+      "teamId": "#1120",
+      "name": "ERror Ja是神突",
+      "w": 6,
+      "l": 19,
+      "gp": 25
     },
     {
       "rank": 10,
       "teamId": "#AC28",
       "name": "J",
       "w": 6,
-      "l": 18,
-      "gp": 24
-    },
-    {
-      "rank": 11,
-      "teamId": "#1120",
-      "name": "ERror Ja是神突",
-      "w": 5,
       "l": 19,
-      "gp": 24
+      "gp": 25
     },
     {
-      "rank": 11,
+      "rank": 12,
       "teamId": "#B686",
       "name": "難以預測大隊",
       "w": 5,
-      "l": 19,
-      "gp": 24
+      "l": 20,
+      "gp": 25
     }
   ]
 }
